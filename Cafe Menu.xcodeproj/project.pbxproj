@@ -9,12 +9,14 @@
 /* Begin PBXFileReference section */
 		90F6499D2D0CEC0500531E56 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
 		90F6499E2D0CEC1900531E56 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		90F649A92D0D7D9A00531E56 /* Cafe Menu.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Cafe Menu.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		90F649952D0CEBE300531E56 = {
 			isa = PBXGroup;
 			children = (
+				90F649A92D0D7D9A00531E56 /* Cafe Menu.txt */,
 				90F6499E2D0CEC1900531E56 /* index.html */,
 				90F6499D2D0CEC0500531E56 /* styles.css */,
 			);
